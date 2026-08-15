@@ -6,6 +6,10 @@ For my CS 330 final project, I developed an interactive 3D space scene using C++
 
 The project was developed throughout the course as I learned and applied techniques involving 3D modeling, transformations, texture mapping, lighting, camera navigation, and perspective and orthographic projection.
 
+## Project Preview
+
+![Final 3D Space Scene](images/Pinkerton_Final_Scene.png)
+
 ## Project Features
 
 * 3D space station constructed from multiple primitive meshes
